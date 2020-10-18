@@ -1,4 +1,4 @@
-These IMAGEJ plugins are made to extract contours from pictures with different methods and are supposed to be used on grayscale images, like shown in the directory "img_tests".
+These IMAGEJ plugins are made to extract discrete contours from pictures with different methods and are supposed to be used on grayscale images, like shown in the directory "img_tests".
 
 -Masque_Sobel.java generates three gradient maps (along X, Y and XY) by applying three different sobel filters.
 
